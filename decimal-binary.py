@@ -7,5 +7,8 @@ if Num.isdecimal:
        while Num > 0:
           remainder = Num % 2
           binary_representatation = binary.append(str((remainder)))
+          Num // 2
+          binary.reverse()
+          print(binary)
 else:
     print("Invalid input!!\nEnter the decimal number only..")
