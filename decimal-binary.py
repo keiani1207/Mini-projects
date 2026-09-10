@@ -1,4 +1,4 @@
-Num = int(input("Enter a Number = "))
+Num = (input("Enter a Number = "))
 if Num.isdecimal:
     if Num == 0:
       print("binary representation = 0")
