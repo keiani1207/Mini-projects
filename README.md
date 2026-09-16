@@ -21,3 +21,9 @@ Converts time values between different units such as seconds, minutes, hours, an
 
 * **Checks:** Valid numeric input and unit conversion logic.
 * **Run:** `python time-convertor.py`
+
+### 4. Username & Domain Extractor (`username-domain-extractor.py`)
+Cleans an input email address and analyzes specific string properties.
+
+* **Checks:** Removes whitespace, converts to lowercase, extracts first/last characters, and demonstrates string repetition.
+* **Run:** `python username-domain-extractor.py`
