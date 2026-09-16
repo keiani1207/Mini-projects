@@ -15,3 +15,9 @@ Calculates the total tip and splits the final bill amount evenly among multiple 
 
 * **Checks:** Total bill amount, tip percentage, and number of people splitting.
 * **Run:** `python "2.bill-tip calculator.py"`
+
+### 3. Time Converter (`time-convertor.py`)
+Converts time values between different units such as seconds, minutes, hours, and days.
+
+* **Checks:** Valid numeric input and unit conversion logic.
+* **Run:** `python 3.time-convertor.py`
