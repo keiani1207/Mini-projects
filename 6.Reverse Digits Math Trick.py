@@ -6,3 +6,4 @@ num=(input("Enter 3 digit intger = "))
 num=num//100
 num1=num%100
 num2=num1//10
+num3=num1%10
